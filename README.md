@@ -1,4 +1,7 @@
 ## reCAPTCHA v2 avec FastAPI — Démo sécurisée de formulaire
+<img width="1349" height="828" alt="image" src="https://github.com/user-attachments/assets/9bf3c84f-47df-4f5f-8433-f661b20bbdbc" />
+Resultat:
+<img width="936" height="677" alt="image" src="https://github.com/user-attachments/assets/a7c96f57-3081-455b-a256-380ee717ef0a" />
 
 ### 🧭 À propos
 
@@ -165,11 +168,3 @@ Note: Les clés de démo Google sont destinées au développement/test et ne doi
 - « reCAPTCHA manquant »: vérifier que le widget se charge et que la `site_key` est injectée.
 - « Échec reCAPTCHA »: inspecter `details` renvoyés par Google pour le motif précis.
 - Problèmes réseau: s'assurer que la machine peut joindre `google.com` sur HTTPS.
-
----
-
-### 📄 Licence
-
-Libre d'utilisation à des fins d'apprentissage et de démonstration. Ajoutez votre licence si nécessaire (MIT, Apache-2.0, etc.).
-
-
