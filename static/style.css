@@ -1,0 +1,7 @@
+body{font-family:system-ui,Arial;margin:2rem}
+form{max-width:520px}
+label{display:block;margin:.5rem 0 .25rem}
+input[type="email"], textarea{width:100%;padding:.5rem}
+textarea{min-height:120px;resize:vertical}
+button{margin-top:.75rem;padding:.5rem 1rem;cursor:pointer}
+
